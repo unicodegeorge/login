@@ -1,0 +1,6 @@
+cz\unicode\george\entities\UserEntity.class
+cz\unicode\george\ApiConf.class
+cz\unicode\george\managers\AuthManager.class
+cz\unicode\george\resources\AuthResource.class
+cz\unicode\george\managers\UserManager.class
+cz\unicode\george\resources\UserResource.class
